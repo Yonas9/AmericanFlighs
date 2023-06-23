@@ -7,14 +7,14 @@ mule:
   version: "4.4.0"
   
 anypoint:
-  username: "Learn2023"
-  password: "MuyleSoft2021"
+  username: "KifleYonas"
+  password: "SelfTaught2023"
   
   
 cloudhub:
   enviroment: "Sandbox"
   app: "training4-american-ws"
-  bg: "Learner"
+  bg: "StudentMuleSoft"
   worker: "Micro"
   
   
