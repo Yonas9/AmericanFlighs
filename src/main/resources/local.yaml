@@ -13,7 +13,7 @@ anypoint:
   
 cloudhub:
   enviroment: "Sandbox"
-  app: "training4-american-ws"
+  app: "training4-american-ws-Sherka"
   bg: "StudentMuleSoft"
   worker: "Micro"
   
