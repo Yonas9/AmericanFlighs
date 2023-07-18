@@ -5,7 +5,7 @@ pipeline {
     //adding a comment for the commit test
     DEPLOY_CREDS = credentials('deploy-anypoint-user')
     MULE_VERSION = '4.4.0'
-    BG = "StudentMuleSoft"
+    BG = "Self"
     WORKER = "Micro"
     M2SETTINGS = "C:\\Users\\Yonas_Eluna\\.m2\\settings.xml"
   }
