@@ -4,16 +4,6 @@ http:
   path: "/flights"
   pathID: "/flights/{ID}"
   
-  
-american:
-  host: "training-american-flights-proxy.us-e2.cloudhub.io"
-  port: "80"
-  basePath: "/"
-  protocol: "HTTP"
-  client_id: "d8143303fa7349fda8c1956549ef18cb"
-  client_secret: "aaAE60dAD47448E6b0221B2e827c42dD"
-  
-  
 mule:
   version: "4.4.0"
   
