@@ -3,18 +3,20 @@ http:
   port: "8081"
   path: "/flights"
   pathID: "/flights/{ID}"
+  
+
 mule:
   version: "4.4.0"
   
 anypoint:
-  username: "KifleYonas"
-  password: "SelfTaught2023"
+  username: "KiYonas"
+  password: "MuleMule2023"
   
   
 cloudhub:
   enviroment: "Sandbox"
   app: "training4-american-ws-Sherka"
-  bg: "StudentMuleSoft"
+  bg: "Self"
   worker: "Micro"
   
   
