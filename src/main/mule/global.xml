@@ -14,5 +14,4 @@ http://www.mulesoft.org/schema/mule/american-flights-api http://www.mulesoft.org
 	</db:config>
 	<configuration-properties doc:name="Configuration properties" doc:id="2e131307-6b4f-44fc-aa60-1419c06caa00" file="${env}.yaml" />
 	<global-property doc:name="Global Property" doc:id="80c11654-32d3-49f5-ba81-9276d1c834da" name="env" value="local" />
-	<american-flights-api:config name="American_Flights_API_Config" doc:name="American Flights API Config" doc:id="33b293dc-89d9-4eae-981c-7e37ad5e6795" property_host="${american.host}" property_port="${american.port}" property_protocol="${american.protocol}" property_basePath="${american.basePath}" />
 </mule>
