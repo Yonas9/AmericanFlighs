@@ -9,8 +9,8 @@ mule:
   version: "4.4.0"
   
 anypoint:
-  username: "KiYonas"
-  password: "MuleMule2023"
+  username: "SelfLearn"
+  password: "LearnMule#2023"
   
   
 cloudhub:
