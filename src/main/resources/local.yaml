@@ -15,8 +15,8 @@ anypoint:
   
 cloudhub:
   enviroment: "Sandbox"
-  app: "training4-american-ws-Sherka2"
-  bg: "Self"
+  app: "training4-american-ws-Sherka5"
+  bg: "Student"
   worker: "Micro"
   
   
